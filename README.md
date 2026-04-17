@@ -8,7 +8,6 @@ The system combines classification results, segmentation outputs, and spatial an
 
 <img width="914" height="391" alt="image" src="https://github.com/user-attachments/assets/c471ce7d-816f-494b-b5f3-0f6796eb7759" />
 
-<img width="791" height="324" alt="image" src="https://github.com/user-attachments/assets/44ad0cb5-f05e-4264-a957-36f8b43bb49a" />
 
 
 ## Concept
