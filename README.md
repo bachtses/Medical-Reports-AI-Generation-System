@@ -119,15 +119,12 @@ Density classification
 Tumor staging
 Tumor location
 
+<img width="722" height="341" alt="image" src="https://github.com/user-attachments/assets/b5e0e1a7-cea4-4ee1-aeed-97e5f7e4e539" />
+
 
 ## Tech Stack
 
-Python
-OpenCV (image processing)
-NumPy
-Matplotlib
-ReportLab (PDF generation)
-XML (ElementTree)
+Python, OpenCV (image processing), NumPy, Matplotlib, ReportLab (PDF generation), XML (ElementTree)
 
 
 ## How to Run
@@ -135,8 +132,10 @@ XML (ElementTree)
 Place model outputs in respective folders:
 JSON files
 Segmentation image
+
 Run:
 python medical_report_component.py
+
 Outputs generated in:
 Results/
 
@@ -148,10 +147,10 @@ Clinical decision support systems
 Medical AI pipelines integration
 Research on automated report generation
 
-<img width="695" height="368" alt="image" src="https://github.com/user-attachments/assets/f51f8dc4-cee2-4569-a1e8-82eb3418def8" />
-
 
 ## Disclaimer
 
 This project is for research and development purposes only and does not replace professional medical diagnosis.
 
+
+<img width="695" height="368" alt="image" src="https://github.com/user-attachments/assets/f51f8dc4-cee2-4569-a1e8-82eb3418def8" />
