@@ -19,6 +19,8 @@ The pipeline simulates a real-world clinical workflow:
 3. The system aggregates results
 4. A structured clinical report is generated automatically
 
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/87891248-165e-4288-963f-bdf63fbf3d74" />
+
 
 ## Pipeline Architecture
 
@@ -101,7 +103,6 @@ XML Report
 - Data exchange
 - Report Generation Logic
 
-<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/87891248-165e-4288-963f-bdf63fbf3d74" />
 
 
 ## The system combines:
