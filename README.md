@@ -1,4 +1,4 @@
-# Medical AI Report Generation Pipeline
+# Medical Reports AI Generation System
 
 ## Overview
 
