@@ -42,7 +42,6 @@ The pipeline simulates a real-world clinical workflow:
 
 <img width="738" height="270" alt="image" src="https://github.com/user-attachments/assets/69fabe7e-f00e-4fe8-bb35-973ae25d589d" />
 
-<img width="954" height="456" alt="image" src="https://github.com/user-attachments/assets/edf80614-ae30-465f-af77-69d9f973870b" />
 
 
 ## Key Features
@@ -54,6 +53,8 @@ The pipeline simulates a real-world clinical workflow:
 - Dual output format:
   - PDF (for clinicians)
   - XML (for systems / interoperability)
+
+<img width="954" height="456" alt="image" src="https://github.com/user-attachments/assets/edf80614-ae30-465f-af77-69d9f973870b" />
 
 
 ## Spatial Analysis
