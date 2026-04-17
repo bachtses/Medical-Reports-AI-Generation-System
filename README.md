@@ -6,6 +6,10 @@ This project implements an automated medical report generation pipeline that int
 
 The system combines classification results, segmentation outputs, and spatial analysis to generate human-readable medical summaries aligned with clinical reporting standards.
 
+<img width="914" height="391" alt="image" src="https://github.com/user-attachments/assets/c471ce7d-816f-494b-b5f3-0f6796eb7759" />
+
+<img width="791" height="324" alt="image" src="https://github.com/user-attachments/assets/44ad0cb5-f05e-4264-a957-36f8b43bb49a" />
+
 
 ## Concept
 
@@ -34,6 +38,11 @@ The pipeline simulates a real-world clinical workflow:
 - **Output**
   - PDF clinical report (human-readable)
   - XML report (HL7-like structure)
+
+
+<img width="738" height="270" alt="image" src="https://github.com/user-attachments/assets/69fabe7e-f00e-4fe8-bb35-973ae25d589d" />
+
+<img width="954" height="456" alt="image" src="https://github.com/user-attachments/assets/edf80614-ae30-465f-af77-69d9f973870b" />
 
 
 ## Key Features
@@ -92,6 +101,9 @@ XML Report
 - Data exchange
 - Report Generation Logic
 
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/87891248-165e-4288-963f-bdf63fbf3d74" />
+
+
 ## The system combines:
 
 Model predictions
@@ -134,6 +146,8 @@ AI-assisted radiology workflows
 Clinical decision support systems
 Medical AI pipelines integration
 Research on automated report generation
+
+<img width="695" height="368" alt="image" src="https://github.com/user-attachments/assets/f51f8dc4-cee2-4569-a1e8-82eb3418def8" />
 
 
 ## Disclaimer
